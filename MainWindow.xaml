@@ -12,6 +12,7 @@
         </Grid>
         <!--Inhoud-->
         <Grid DockPanel.Dock="Bottom">
+          
         </Grid>
     </DockPanel>
 </Window>
